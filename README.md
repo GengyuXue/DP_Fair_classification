@@ -4,7 +4,6 @@ This repository contains the code for the paper
 **Federated fairness-aware classification under differential privacy**  
 https://arxiv.org/abs/2603.24392
 
-## Repository Structure
 
 - **CDP and FDP/**  
   Contains the function code to implement: CDP-Fair and FDP-Fair.  
